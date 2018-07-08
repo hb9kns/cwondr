@@ -3,6 +3,10 @@
 Project "CW on da road":
 low-power pocket-size CW transceiver for direct amateur radio contacts on 70 cm
 
+*Zusammenfassung in Deutsch* [hier]( zusammenfassung.md ) *verfuegbar*
+
+*Resume en francais disponible* [ici]( resume.md )
+
 ## Motivation
 
 *You're strolling through the city on a warm summer evening, chatting with your friends, when all of a sudden you hear a faint Morse signal out of your pocket. You take out the small device, plug in the earphones, and key a QRZ DE YOURCALLSIGN?*
