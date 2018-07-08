@@ -49,8 +49,8 @@ This is a very young project, and your participation is highly appreciated,
 by [e-mail][contact] or by pull requests to this repository!
 
 - [list of ideas]( ideas.md )
-- [hardware todo list]( todo-hard.md )
-- [software todo list]( todo-soft.md ).
+- [hardware todo list]( Hardware/todo-hard.md )
+- [software todo list]( Software/todo-soft.md ).
 
 ---
 
