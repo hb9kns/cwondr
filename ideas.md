@@ -64,3 +64,7 @@ status report: RX/TX freq (abbreviated inside range limits), battery level
 7. receive offset (active after transmission and memory recalls, zero during scanning): reported by side tone beep, change by +/-, A/Z=1/0 kHz
 8. beacon text, enter as Morse code with up to 7 dots or dashes per character: A/Z=dash/dot, +/-=enter/delete character, MENU/ESC=save/abandon
 9. beacon and side tone speed in WpM (PARIS norm)
+
+---
+
+_(2018-July-8 HB9KNS)_

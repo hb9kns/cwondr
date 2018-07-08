@@ -52,4 +52,4 @@ by [e-mail][contact] or by pull requests to this repository!
 
 [contact]: mailto:hb9kns@gmail.com
 
-_(2018-July, HB9KNS Yargo Bonetti)_
+_(2018-July-8 HB9KNS)_
