@@ -4,7 +4,7 @@ low-power portable (70cm) CW transceiver, for short range direct QSOs
 
 ## General Features
 
-- supply 5..12 V, optimized for 5 V (USB)
+- supply 4.5..12 V, optimized for 5 V (USB)
 - power save mode with electronic squelch
 - beacon mode: call sign transmission unless squelch open, pause
 - 1 direct memory DM, 2 working memories A and Z, 2 shadow memories + and - (each containing freq, power and squelch levels)
@@ -20,7 +20,7 @@ low-power portable (70cm) CW transceiver, for short range direct QSOs
 
 ## User Interface
 
-- mechanical off/volume knob
+- mechanical off/volume knob, or electronic volume setting
 - 8 buttons: MENU, ESC, ENTER, +, -, A, Z, (RESET)
 - output by side tone in Morse code, default speed 20 WpM
 - LED optional (blinking with side tone)
@@ -42,7 +42,7 @@ status report: RX/TX freq (abbreviated inside range limits), battery level
 
 ### settings menu
 
-- while idle in settings, short beep every 2 sec
+- while idle in settings, morse M every 5 sec
 
 #### button functions in settings menu
 
@@ -55,11 +55,12 @@ status report: RX/TX freq (abbreviated inside range limits), battery level
 
 #### settings menu items
 
-1. power level
-2. squelch level
-3. complete status and memory report
-4. semiduplex: TX using A/Z memory, notified by chirping sidetone, reset with ESC from this item or long ESC (DM recall) during normal operation
-5. switch direct memory (DM) and memory A/Z/+/- (shadow memories + and - only accessible this way), new DM freq reported with side tone
-6. receive offset (active after transmission and memory recalls, zero during scanning): reported by side tone beep, change by +/-, A/Z=1/0 kHz
-7. beacon text, enter as Morse code with up to 7 dots or dashes per character: A/Z=dash/dot, +/-=enter/delete character, MENU/ESC=save/abandon
-8. beacon and side tone speed in WpM (PARIS norm)
+1. (in case of electronic setting) volume level
+2. power level
+3. squelch level
+4. complete status and memory report
+5. semiduplex: TX using A/Z memory, notified by chirping sidetone, reset with ESC from this item or long ESC (DM recall) during normal operation
+6. switch direct memory (DM) and memory A/Z/+/- (shadow memories + and - only accessible this way), new DM freq reported with side tone
+7. receive offset (active after transmission and memory recalls, zero during scanning): reported by side tone beep, change by +/-, A/Z=1/0 kHz
+8. beacon text, enter as Morse code with up to 7 dots or dashes per character: A/Z=dash/dot, +/-=enter/delete character, MENU/ESC=save/abandon
+9. beacon and side tone speed in WpM (PARIS norm)
