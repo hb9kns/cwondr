@@ -48,7 +48,7 @@ If you know about something similar, please [contact me][] ASAP!
 This is a very young project, and your participation is highly appreciated,
 by [e-mail][contact] or by pull requests to this repository!
 
-- [list of ideas]( ideas.md )
+- [wishlist]( wishlist.md )
 - [hardware todo list]( Hardware/todo-hard.md )
 - [software todo list]( Software/todo-soft.md ).
 
