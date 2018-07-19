@@ -51,6 +51,7 @@ by [e-mail][contact] or by pull requests to this repository!
 
 - [wishlist]( wishlist.md )
 - [parts of the system]( ./Parts/ )
+- [planning]( planning.md )
 
 ---
 
