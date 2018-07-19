@@ -7,7 +7,8 @@ low-power portable (70cm) CW transceiver, for short range direct QSOs
 - supply 4.5..12 V, optimized for 5 V (USB)
 - power save mode with electronic squelch
 - beacon mode: call sign transmission unless squelch open, pause
-- 1 direct memory DM, 2 working memories A and Z, 2 shadow memories + and - (each containing freq, power and squelch levels)
+- minimal number of TRX memories: 1 direct memory DM (think "accumulator of a CPU"), 2 working memories `A` and `Z` , 2 shadow memories `+` and `-`
+- memory contents: freq, power, squelch levels
 - callsign memory for beacon operation
 - system status and memories retained during power off: 6 times (1 byte power level + 1 byte squelch level + 3 byte freq offset in Hz + 1 byte status) = 36 bytes, plus 25 bytes for call sign
 
@@ -16,12 +17,12 @@ low-power portable (70cm) CW transceiver, for short range direct QSOs
 - TRX freq range at least 432000..432400 kHz, up to 438000 if possible; may be reduced for manual and automatic scans
 - antenna: dedicated socket / headphone cable / key cable
 - TX: 0.05, 0.5, 5 W; 0.5 default
-- RX: direct conversion with electronic 0.1 kHz steps or less
+- RX: direct conversion or BFO/SSB type with electronic 0.1 kHz steps or less
 
 ## User Interface
 
 - mechanical off/volume knob, or electronic volume setting
-- 8 buttons: MENU, ESC, ENTER, +, -, A, Z, (RESET)
+- at least 8 buttons: MENU, ESC, ENTER, +, -, A, Z, (RESET)
 - output by side tone in Morse code, default speed 20 WpM
 - LED optional (blinking with side tone)
 - 2 headphone jacks, optionally one with deactivated loudspeaker (low sound quality ok)
@@ -67,4 +68,4 @@ status report: RX/TX freq (abbreviated inside range limits), battery level
 
 ---
 
-_(2018-July-8 HB9KNS)_
+_(2018-July-19 HB9KNS)_

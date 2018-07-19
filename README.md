@@ -31,7 +31,7 @@ If you know about something similar, please [write me][contact] ASAP!
 ## The Solution: pocket-sized, USB powered 430 MHz CW transceiver
 
 - 5 V power is widely available in USB supplies and batteries
-- 430 MHz is a not too crowded band suitable for short range contacts and antennas easy to carry around
+- 430 MHz is a not too crowded band suitable for short range contacts with antennas easy to carry around
 - cheap and small RF systems for 70 cm are widely available (PMR, ISM band remote controls)
 - Arduino and similar solutions provide low-power control facilities
 
@@ -41,7 +41,7 @@ If you know about something similar, please [write me][contact] ASAP!
 - powered by external USB source, low power consumption in receive mode
 - direct key button for CW transmission included, external possible
 - small loudspeaker included, main operation through earphones
-- user interface through buttons and Morse sidetone (no display)
+- user interface through buttons and Morse sidetone, i.e no display required: can be controlled just by pressing buttons and listening to sidetone)
 - transmit power up to 5 W, reduced levels for short range QSOs
 
 ## Participation
@@ -50,11 +50,10 @@ This is a very young project, and your participation is highly appreciated,
 by [e-mail][contact] or by pull requests to this repository!
 
 - [wishlist]( wishlist.md )
-- [hardware todo list]( Hardware/todo-hard.md )
-- [software todo list]( Software/todo-soft.md ).
+- [parts of the system]( ./Parts/ )
 
 ---
 
 [contact]: mailto:hb9kns@gmail.com
 
-_(2018-July-14 HB9KNS)_
+_(2018-July-19 HB9KNS)_
